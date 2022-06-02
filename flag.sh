@@ -1,4 +1,4 @@
-!#/bin/bash
+#!/bin/bash
 
 while getopts u:p: flag
 do
